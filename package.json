@@ -1,0 +1,23 @@
+{
+  "name": "node_scraper",
+  "version": "1.0.0",
+  "description": "Web scraper using node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinontheinternet/node-scraper.git"
+  },
+  "author": "Justin Arruda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinontheinternet/node-scraper/issues"
+  },
+  "homepage": "https://github.com/justinontheinternet/node-scraper",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
+}
